@@ -1,0 +1,163 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  
+}
+.transform {
+   width: 100%;
+   height: 10rem;
+   background-color: black;
+   background: -webkit-linear-gradient(20deg , rgb(33, 76, 138),white,	gray,white);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+ .tt{
+    width: 20%;
+    height: 150px;
+    justify-content: center;
+    text-align: center;
+ }
+ h1{
+    text-align: center;
+    width: 70%;
+    color: rgb(7, 3, 3);
+ }
+ .contect{
+    width: 100%;
+    height: 35px; 
+    background-color:lightgray;
+    align-items: center;
+    text-align: center;
+}
+marquee{
+    text-align: center;
+    text-shadow: 2px 2px white;
+}
+.mcontent{
+       height: 50px;
+       width: 100%;
+       justify-content: center;
+      display: inline;
+      display:flex;
+      
+}
+.content{
+       height: 80px;
+       width: 100%;
+       background-color: rgb(244, 243, 243);
+       justify-content: center;
+      box-shadow: 1px 1px 2px rgb(161, 158, 158), 0 0 25px rgb(20, 20, 21), 0 0 5px rgb(90, 90, 97);
+      display: flex;
+      justify-content: space-evenly;
+}
+.w{
+   margin-top: 10px;
+   border: 1px solid transparent;
+   height: 1rem;
+   color: black;
+   font-weight: 100px;
+}
+.a :hover{
+ 
+}
+.ss{
+   height: 40px;
+   display: flex;
+      justify-content: space-evenly;
+      gap: 3.5rem;
+      border-bottom: 1px solid gray ;
+      width: 100%;
+      background-color: lightgray;
+}
+.first-nav{
+  
+   width: 100%;
+   justify-content: center;
+
+}
+.img1{
+   height: 250px;
+   width: 100%;
+   background-color: bisque;
+   background-image: url(main.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   justify-content: center;
+
+   
+}
+.main-head{
+         height: 90%;
+         width: 90%;
+         border: 2 px solid rgb(159, 46, 46);
+}
+.main-head-c{
+         width: 70%;
+         margin-top: 10px;
+         padding-top: 10px;
+         background-color: rgba(0, 0, 0, 0.059);
+         color: rgba(255, 255, 255, 0.865);
+        
+}
+#mm{
+   align-items: center;
+}
+.Firststep{
+          height: 250px;
+          width: 100%;
+          background-image: url(https://media.gettyimages.com/id/1795497365/photo/balcony-of-a-modern-building-in-the-city-with-glass-railing-sunlight-reflecting-on-the-glass.jpg?s=612x612&w=0&k=20&c=q40E19L_9H65IfAX29B-gRldD-phacNQ1KUqQbF3RFk=);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: center;
+}
+.child1{
+     width: 80%;
+         margin-top: 1px;
+         padding-top: 10px;
+         position: static;
+         background-color: rgba(250, 247, 247, 0.55);
+         color: rgba(12, 12, 12, 0.865);
+         float: right;
+         vertical-align: middle;
+        
+}
+.secondtstep{
+          height: 250px;
+          width: 100%;
+          background-image: url(new2.jpg);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: center;
+           border: 7px;
+         border-radius: 10px;
+        
+}
+.child2{
+     width: 65%;
+         margin-top: 1px;
+         padding-top: 10px;
+         position: static;
+         background-color: rgba(250, 247, 247, 0.55);
+         color: rgba(12, 12, 12, 0.865);
+         float: left;
+         vertical-align: middle;
+
+}
+.foo{
+   height: 500px;
+   width: 100%;
+   background-color: darkolivegreen;
+}
+.aa{
+   height: 30px;
+   width: 100%;
+   border: 2px dotted red;
+   text-align: center;
+   background: linear-gradient(white,black);
+}
+li :hover{
+   font-size: 40px;
+}
